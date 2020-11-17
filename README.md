@@ -5,4 +5,5 @@ Penjelasan :
 1. Melakukan perintah sesuai modul
 2. Cek di postman
 3. Push di git
-4. Selesai.
+4. Buat Laporan
+5. Selesai.
